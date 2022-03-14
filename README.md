@@ -11,4 +11,5 @@ Assumptions:
   
   
   
-Console version: https://github.com/mfm1211/BattleshipSimulationConsole/tree/main/BattleshipGameConsole
+Console version:  
+https://github.com/mfm1211/BattleshipSimulationConsole
