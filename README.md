@@ -7,5 +7,8 @@ The button "New Simulation" resets the grids, and places new ships.
 Assumptions:  
 -Grids on which players put their ships are fixed at a size of 10x10 cells.  
 -Each player has 5 ships with lengths of l = {5,4,3,3,2}  
--ships can not touch each other (niether on the sides, nor diagonally)  
-
+-ships can not touch each other (niether on the sides, nor diagonally)    
+  
+  
+  
+Console version: https://github.com/mfm1211/BattleshipSimulationConsole/tree/main/BattleshipGameConsole
