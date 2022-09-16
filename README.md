@@ -10,6 +10,3 @@ Assumptions:
 -ships can not touch each other (niether on the sides, nor diagonally)    
   
   
-  
-Console version:  
-https://github.com/mfm1211/BattleshipSimulationConsole
